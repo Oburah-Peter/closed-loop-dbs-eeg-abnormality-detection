@@ -430,7 +430,7 @@ If you use this work, please cite the TUH EEG Corpus and related TUAB documentat
 Suggested project citation:
 
 ```text
-Otieno, P. Computational Modeling of Closed-Loop Deep Brain Stimulation Using Deep Learning-Based EEG Abnormality Detection and Neural Oscillation Dynamics. GitHub Repository, 2026.
+Oburah, P. Computational Modeling of Closed-Loop Deep Brain Stimulation Using Deep Learning-Based EEG Abnormality Detection and Neural Oscillation Dynamics. GitHub Repository, 2026.
 ```
 
 ---
