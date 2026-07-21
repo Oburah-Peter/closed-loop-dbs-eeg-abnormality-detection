@@ -1,4 +1,4 @@
-# Computational Modeling of Closed-Loop Deep Brain Stimulation Using Deep Learning-Based EEG Abnormality Detection and Neural Oscillation Dynamics
+# Attention-Based Agentic Framework for Explainable EEG Abnormality Detection and Adaptive Closed-Loop Deep Brain Stimulation
 
 ## Project Overview
 
